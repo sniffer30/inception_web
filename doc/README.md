@@ -20,7 +20,7 @@ MySQL-python==1.2.5
 requirements.txt 
 安装方法:  pip install -r requirements
 
-运行方法：python manage.py runserver 8080 
+运行方法：python manage.py runserver 8080 （这里最好写成ip:端口的形式）
 打开浏览器，输入：http://localhost:8080/ 
 manage.py路径：mysqlcheck\manage.py
 
